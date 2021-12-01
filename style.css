@@ -1,0 +1,30 @@
+#div{
+    width: 100%;
+    
+}
+#big_momma{
+    width: 100%;
+    
+}
+#tidy,#papa_ship{
+    font-size: 23px;
+}
+#carl_vinson{
+    line-height: 3;
+    bottom: 0;
+    position: fixed;
+    background-color: black;
+    width: 100%;
+    text-align: center;
+    color: #5e1a05;
+    font-size: 30px;
+}
+#carl_vinson:hover{
+background-color: red;
+}
+video{
+    background-image: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
